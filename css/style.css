@@ -1,0 +1,53 @@
+.logo{
+	margin-top: 54px;
+	margin-right: 60px;
+	margin-left: 52px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+nav{
+	display: inline-block;
+}
+li{
+	color: #8D81FF;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-right: 83px;
+	list-style: none;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+a{
+	display: inline-block;
+	margin-right: 84px;
+	color: #8D81FF;
+	font-family: "BPG Nostalgia", sans-serif;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.active{
+	color: #4E6FAE;
+}
+
+.date{
+	margin-top: 44px;
+	margin-bottom: 18px;
+	margin-left: 52px;
+	height: 50px;
+	width: 50px;
+	background-color: #5012D5;
+	padding: 12px;
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}

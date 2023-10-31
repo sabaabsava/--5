@@ -1,0 +1,38 @@
+.logo{
+	margin-top: 54px;
+	margin-right: 60px;
+	margin-bottom: 44px;
+	margin-left: 52px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+nav{
+	display: inline-block;
+}
+li{
+	color: #8D81FF;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-right: 83px;
+	list-style: none;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+a{
+	display: inline-block;
+	margin-right: 84px;
+	color: #8D81FF;
+	font-family: "BPG Nostalgia", sans-serif;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.active{
+	color: #4E6FAE;
+}
